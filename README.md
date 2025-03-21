@@ -5,7 +5,7 @@ Developed using Node.js, utilizes the Gmail API to automatically classify and re
 emails. It generates appropriate replies based on custom rules and templates. Label management 
 and sender tracking mechanisms are implemented to prevent duplicate email processing
 
-**Features**
+Features
     
     1.Gmail API Integration: Utilizes the googleapis package to interact seamlessly with various Google APIs, including the Gmail API.
 

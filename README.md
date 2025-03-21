@@ -6,6 +6,7 @@ emails. It generates appropriate replies based on custom rules and templates. La
 and sender tracking mechanisms are implemented to prevent duplicate email processing
 
 **Features**
+    
     1.Gmail API Integration: Utilizes the googleapis package to interact seamlessly with various Google APIs, including the Gmail API.
 
     2.OAuth2 Authentication: Implements secure authentication via the OAuth2 class from the google.auth module, which handles token refresh and retries automatically.
